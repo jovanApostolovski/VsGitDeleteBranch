@@ -9,6 +9,9 @@ p {
     text-align: center;
 }
 
+h2 {
+    text-align: center;
+}
 div {
     display: flex;
     justify-content: space-between;
